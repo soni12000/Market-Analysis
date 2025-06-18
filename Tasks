@@ -1,0 +1,21 @@
+Task:
+1.	What are the top 10 aisles with the highest number of products?
+2.	How many unique departments are there in the dataset?
+3.	What is the distribution of products across departments?
+4.	What are the top 10 products with the highest reorder rates?
+5.	How many unique users have placed orders in the dataset?
+6.	What is the average number of days between orders for each user?
+7.	What are the peak hours of order placement during the day?
+8.	How does order volume vary by day of the week?
+9.	What are the top 10 most ordered products?
+10.	How many users have placed orders in each department?
+11.	What is the average number of products per order?
+12.	What are the most reordered products in each department?
+13.	How many products have been reordered more than once?
+14.	What is the average number of products added to the cart per order?
+15.	How does the number of orders vary by hour of the day?
+16.	What is the distribution of order sizes (number of products per order)?
+17.	What is the average reorder rate for products in each aisle?
+18.	How does the average order size vary by day of the week?
+19.	What are the top 10 users with the highest number of orders?
+20.	How many products belong to each aisle and department?
