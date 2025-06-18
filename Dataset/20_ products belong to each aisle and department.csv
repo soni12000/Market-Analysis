@@ -1,0 +1,135 @@
+department,aisle,product_count
+alcohol,"beers coolers",384
+alcohol,"red wines",232
+alcohol,spirits,192
+alcohol,"white wines",146
+alcohol,"specialty wines champagnes",95
+babies,"baby food formula",713
+babies,"diapers wipes",184
+babies,"baby bath body care",130
+babies,"baby accessories",44
+bakery,bread,553
+bakery,"bakery desserts",297
+bakery,"tortillas flat bread",239
+bakery,"breakfast bakery",225
+bakery,"buns rolls",192
+beverages,tea,887
+beverages,"juice nectars",781
+beverages,coffee,673
+beverages,refrigerated,671
+beverages,"soft drinks",457
+beverages,"water seltzer sparkling water",342
+beverages,"energy sports drinks",291
+beverages,"cocoa drink mixes",222
+breakfast,cereal,453
+breakfast,"hot cereal pancake mixes",302
+breakfast,granola,185
+breakfast,"breakfast bars pastries",173
+bulk,"bulk grains rice dried goods",26
+bulk,"bulk dried fruits vegetables",12
+"canned goods","soup broth bouillon",727
+"canned goods","canned jarred vegetables",483
+"canned goods","canned meals beans",341
+"canned goods","canned meat seafood",280
+"canned goods","canned fruit applesauce",242
+"dairy eggs",yogurt,1023
+"dairy eggs","packaged cheese",888
+"dairy eggs","soy lactosefree",291
+"dairy eggs","specialty cheeses",268
+"dairy eggs",milk,241
+"dairy eggs","other creams cheeses",190
+"dairy eggs",cream,158
+"dairy eggs",butter,148
+"dairy eggs",eggs,124
+"dairy eggs","refrigerated pudding desserts",97
+deli,"lunch meat",369
+deli,"fresh dips tapenades",325
+deli,"prepared meals",314
+deli,"tofu meat alternatives",159
+deli,"prepared soups salads",145
+"dry goods pasta","instant foods",539
+"dry goods pasta","dry pasta",453
+"dry goods pasta","pasta sauce",398
+"dry goods pasta","grains rice dried goods",333
+"dry goods pasta","fresh pasta",122
+frozen,"ice cream ice",1084
+frozen,"frozen meals",880
+frozen,"frozen appetizers sides",382
+frozen,"frozen produce",359
+frozen,"frozen pizza",330
+frozen,"frozen breakfast",295
+frozen,"frozen meat seafood",228
+frozen,"frozen vegan vegetarian",187
+frozen,"frozen dessert",112
+frozen,"frozen breads doughs",80
+frozen,"frozen juice",45
+household,"cleaning products",653
+household,laundry,506
+household,"air fresheners candles",352
+household,"paper goods",321
+household,"more household",303
+household,"kitchen supplies",216
+household,"food storage",206
+household,"dish detergents",203
+household,"plates bowls cups flatware",196
+household,"trash bags liners",112
+international,"asian foods",602
+international,"latino foods",253
+international,"kosher foods",168
+international,"indian foods",108
+"meat seafood","hot dogs bacon sausage",385
+"meat seafood","meat counter",105
+"meat seafood","packaged meat",100
+"meat seafood","packaged poultry",98
+"meat seafood","poultry counter",82
+"meat seafood","packaged seafood",79
+"meat seafood","seafood counter",54
+missing,missing,1254
+other,other,543
+pantry,"spices seasonings",790
+pantry,"baking ingredients",619
+pantry,"salad dressing toppings",555
+pantry,spreads,488
+pantry,condiments,462
+pantry,"doughs gelatins bake mixes",458
+pantry,"marinades meat preparation",405
+pantry,"pickled goods olives",399
+pantry,"oils vinegars",374
+pantry,"baking supplies decor",289
+pantry,"preserved dips spreads",264
+pantry,"honeys syrups nectars",228
+"personal care","vitamins supplements",1030
+"personal care","hair care",813
+"personal care","oral hygiene",560
+"personal care",soap,523
+"personal care","body lotions soap",502
+"personal care","cold flu allergy",426
+"personal care",digestion,333
+"personal care","protein meal replacements",324
+"personal care",deodorants,314
+"personal care","feminine care",284
+"personal care","facial care",275
+"personal care","skin care",245
+"personal care","first aid",236
+"personal care","shave needs",197
+"personal care",beauty,178
+"personal care","muscles joints pain relief",172
+"personal care","eye ear care",112
+pets,"cat food care",498
+pets,"dog food care",470
+produce,"packaged vegetables fruits",611
+produce,"fresh vegetables",564
+produce,"fresh fruits",379
+produce,"fresh herbs",85
+produce,"packaged produce",32
+snacks,"candy chocolate",1235
+snacks,"chips pretzels",980
+snacks,"cookies cakes",869
+snacks,"energy granola bars",826
+snacks,crackers,740
+snacks,"nuts seeds dried fruit",580
+snacks,"fruit vegetable snacks",356
+snacks,"popcorn jerky",315
+snacks,"mint gum",168
+snacks,"ice cream toppings",83
+snacks,"trail mix snack mix",69

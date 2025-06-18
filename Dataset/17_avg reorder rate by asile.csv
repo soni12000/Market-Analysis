@@ -1,0 +1,135 @@
+aisle,avg_reorder_rate
+milk,0.7923
+"water seltzer sparkling water",0.7379
+"fresh fruits",0.7353
+eggs,0.7269
+"packaged produce",0.7139
+cream,0.6954
+"soy lactosefree",0.6871
+yogurt,0.6862
+"white wines",0.6810
+bread,0.6806
+"packaged vegetables fruits",0.6567
+"cat food care",0.6558
+"breakfast bakery",0.6545
+"soft drinks",0.6531
+refrigerated,0.6523
+"frozen breakfast",0.6463
+"tofu meat alternatives",0.6463
+"energy sports drinks",0.6434
+"mint gum",0.6406
+"poultry counter",0.6357
+"prepared meals",0.6342
+"trail mix snack mix",0.6324
+"fresh dips tapenades",0.6158
+coffee,0.6145
+"fresh vegetables",0.6078
+"breakfast bars pastries",0.6061
+spirits,0.6056
+"lunch meat",0.6040
+"juice nectars",0.6039
+butter,0.6030
+"fruit vegetable snacks",0.6014
+"prepared soups salads",0.6005
+"beers coolers",0.6004
+"frozen pizza",0.5992
+"packaged cheese",0.5988
+"frozen meals",0.5982
+"energy granola bars",0.5970
+"chips pretzels",0.5961
+"dog food care",0.5946
+crackers,0.5877
+"frozen vegan vegetarian",0.5875
+cereal,0.5871
+"popcorn jerky",0.5871
+granola,0.5864
+"other creams cheeses",0.5859
+"bulk dried fruits vegetables",0.5826
+"red wines",0.5810
+"hot dogs bacon sausage",0.5785
+"packaged poultry",0.5729
+"candy chocolate",0.5677
+"cookies cakes",0.5641
+"frozen produce",0.5603
+"canned fruit applesauce",0.5602
+"tortillas flat bread",0.5600
+"frozen meat seafood",0.5594
+"refrigerated pudding desserts",0.5573
+"frozen breads doughs",0.5545
+"packaged seafood",0.5507
+"paper goods",0.5503
+"fresh pasta",0.5499
+"seafood counter",0.5482
+"baby food formula",0.5477
+"frozen appetizers sides",0.5455
+"canned meals beans",0.5441
+"baby accessories",0.5439
+"meat counter",0.5435
+"buns rolls",0.5417
+"packaged meat",0.5396
+"bulk grains rice dried goods",0.5393
+"fresh herbs",0.5385
+"specialty wines champagnes",0.5291
+tea,0.5275
+"nuts seeds dried fruit",0.5223
+"canned meat seafood",0.5091
+"specialty cheeses",0.5089
+"hot cereal pancake mixes",0.5065
+"pasta sauce",0.5052
+"bakery desserts",0.5031
+"instant foods",0.5029
+spreads,0.5003
+"protein meal replacements",0.4943
+"dry pasta",0.4849
+"preserved dips spreads",0.4838
+"diapers wipes",0.4824
+"ice cream ice",0.4786
+"frozen juice",0.4780
+"frozen dessert",0.4727
+"pickled goods olives",0.4674
+laundry,0.4632
+"canned jarred vegetables",0.4532
+"soup broth bouillon",0.4484
+"indian foods",0.4432
+"cocoa drink mixes",0.4313
+digestion,0.4252
+"latino foods",0.4226
+"grains rice dried goods",0.4189
+"doughs gelatins bake mixes",0.4185
+"plates bowls cups flatware",0.4098
+"dish detergents",0.4040
+other,0.3919
+missing,0.3834
+"honeys syrups nectars",0.3753
+"oils vinegars",0.3731
+"asian foods",0.3614
+"trash bags liners",0.3603
+"kosher foods",0.3592
+"oral hygiene",0.3591
+"salad dressing toppings",0.3587
+"body lotions soap",0.3524
+"muscles joints pain relief",0.3507
+"facial care",0.3494
+soap,0.3490
+"air fresheners candles",0.3452
+condiments,0.3392
+"vitamins supplements",0.3345
+"feminine care",0.3295
+"cleaning products",0.3216
+"baking ingredients",0.3136
+"shave needs",0.2985
+"marinades meat preparation",0.2921
+"ice cream toppings",0.2916
+"more household",0.2790
+"skin care",0.2752
+deodorants,0.2695
+"eye ear care",0.2662
+"hair care",0.2639
+"food storage",0.2637
+"baby bath body care",0.2571
+beauty,0.2315
+"first aid",0.2254
+"cold flu allergy",0.2181
+"kitchen supplies",0.1802
+"baking supplies decor",0.1796
+"spices seasonings",0.1647
